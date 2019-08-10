@@ -1,17 +1,1 @@
 archivo de prueba
-
-package com.bootcamp.ejercicio1.app;
-
-public class Init{
-	public static void main(String[] args) {
-		System.out.println("Bienvenido a mi Juego");
-		
-		Init init = new Init();
-
-	Humano humano = new Humano();
-	Enano enano = new Enano();
-	Elfo elfo = new Elfo();
-
-	}
-
-}
